@@ -1,0 +1,37 @@
+class:
+  class_name: 链接分组1
+  link_list:
+    1:
+      name: 蓝桥杯主页
+      link: https://www.dotcpp.com/home/54609226
+      avatar: https://s2.ax1x.com/2020/02/28/3r1bOP.png
+      descr: 蓝桥杯刷题博客记录
+    2:
+      name: 纳米学习
+      link: http://www.1nami.com/
+      avatar: https://s2.ax1x.com/2020/02/28/3r84xA.png
+      descr: 一个很好的学习网站
+    3:
+      name: csdn
+      link: https://www.csdn.net/
+      avatar: https://s2.ax1x.com/2020/02/28/3r8HVf.png
+      descr: 免得登陆直接贴上网址
+
+class2:
+  class_name: 链接分组2
+  link_list:
+    1:
+      name: 鸠摩搜书
+      link: https://www.jiumodiary.com/
+      avatar: https://s2.ax1x.com/2020/02/28/3rJOjs.png
+      descr: 里面有很多实用的书籍，可以下载电子版，超级实用。
+    2:
+      name: 中科考试网
+      link: http://www.vipexam.org/index.html
+      avatar: https://s2.ax1x.com/2020/02/29/3yAoQS.png
+      descr: 里面很多题库适用于计算机，英语，考研，考证等等 
+    3:
+      name: On Java 8
+      link: https://lingcoder.github.io/OnJava8/#/sidebar
+      avatar: https://s2.ax1x.com/2020/02/28/3r8HVf.png
+      descr: 免得登陆直接贴上网址
